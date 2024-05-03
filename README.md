@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Raval.</h1>
 <h3 align="center">A passionate frontend developer,competitive coder from India</h3>
 
-- 🔭 I’m currently working on **Automation projects and MERN Stack Web Application**
-
-- 🌱 I’m currently learning **Automation on Python.**
-
 - 📫 How to reach me **vedant.k.raval@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
